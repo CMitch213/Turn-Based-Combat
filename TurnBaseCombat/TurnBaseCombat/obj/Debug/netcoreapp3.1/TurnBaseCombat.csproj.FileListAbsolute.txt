@@ -1,0 +1,13 @@
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.exe
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.deps.json
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.runtimeconfig.json
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.runtimeconfig.dev.json
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.dll
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\bin\Debug\netcoreapp3.1\TurnBaseCombat.pdb
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.csprojAssemblyReference.cache
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.AssemblyInfoInputs.cache
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.AssemblyInfo.cs
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.csproj.CoreCompileInputs.cache
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.dll
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.pdb
+C:\Users\coopj\source\repos\TurnBaseCombat\TurnBaseCombat\obj\Debug\netcoreapp3.1\TurnBaseCombat.genruntimeconfig.cache

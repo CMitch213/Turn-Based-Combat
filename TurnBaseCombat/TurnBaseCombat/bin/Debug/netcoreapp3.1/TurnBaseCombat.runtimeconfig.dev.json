@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\coopj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coopj\\.nuget\\packages"
+    ]
+  }
+}
